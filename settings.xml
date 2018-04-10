@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:soapui-project activeEnvironment="Default environment" name="REST Sample Project" resourceRoot="" soapui-version="6.0.0" abortOnError="false" runType="SEQUENTIAL" id="8deb3f44-9361-43ec-91ae-27649755b72f" encryptionMode="Not encrypted" updated="2.3.0 2018-03-06T16:28:42Z" compositeProjectFormat="1.3" xmlns:con="http://eviware.com/soapui/config">
-    <con:description>Demonstrates API calls to a local REST-based virtual service for creating a user account.</con:description><con:settings/>
-    
+    <con:description>Demonstrates API calls to a local REST-based virtual service for creating a user account.</con:description><con:settings><con:setting id="8deb3f44-9361-43ec-91ae-27649755b72ffileName">REST-Sample-Project-readyapi-project</con:setting></con:settings>
+    <con:vcsConfiguration><con:vcsName>Git</con:vcsName><con:repositoryIdentifier>https://github.com/smuvw/WebService_Soap_Project.git</con:repositoryIdentifier></con:vcsConfiguration>
     
     
     <con:savedRecentRuns>1</con:savedRecentRuns><con:requirements/>
